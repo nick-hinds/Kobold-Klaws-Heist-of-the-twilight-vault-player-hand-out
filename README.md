@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kobold Klaws twilight vault heist player hand out
+---
+
 # THE KOBOLD KLAWS INITIATION
 ## Player Handout - Mission Briefing
 
